@@ -1,0 +1,11 @@
+title = "Night in the Woods"
+description = "College dropout Mae Borowski returns home to the crumbling former mining town of Possum Springs seeking to resume her aimless former life and reconnect with the friends she left behind. Engaging platforming, nerve-wracking pick-pocketing segments and wild rhythm gaming action ensue as she tries to figure out what is happening to her and in her hometown."
+github_issues = []
+needs_system_files = false
+needs_shared_font = false
+game_type = "switch"
+
+[[ releases ]]
+title = "0100921006A04000"
+region = "all"
+release_date = "2018-02-01"
